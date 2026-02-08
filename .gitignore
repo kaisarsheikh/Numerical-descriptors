@@ -1,0 +1,10 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data files (don't upload your big PDB datasets)
+*.pdb
+*.csv
